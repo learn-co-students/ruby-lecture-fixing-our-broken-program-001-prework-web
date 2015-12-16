@@ -1,5 +1,4 @@
 # What is a Program?
-
 puts "This is a program"
 puts "Programs are interpreted at runtime."
 puts "Which means even though I'm writing this Tue Jan 17 2012 8:36am"
