@@ -87,6 +87,7 @@ RSpec.configure do |config|
   Kernel.srand config.seed
 =end
 end
+<<<<<<< HEAD
 
 RSpec.configure do |config|
   original_stderr = $stderr
@@ -101,3 +102,5 @@ RSpec.configure do |config|
     $stdout = original_stdout
   end
 end
+=======
+>>>>>>> 4d782f69b26811d20b59bb14ca2d457ea1d5521e
