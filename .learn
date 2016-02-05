@@ -1,8 +1,16 @@
 tags:
   - introduction
+<<<<<<< HEAD
   - debugging
+=======
+  - error messages
+>>>>>>> 4d782f69b26811d20b59bb14ca2d457ea1d5521e
   - lecture
 languages:
   - ruby
 type:
   - video
+<<<<<<< HEAD
+=======
+  - lab
+>>>>>>> 4d782f69b26811d20b59bb14ca2d457ea1d5521e
