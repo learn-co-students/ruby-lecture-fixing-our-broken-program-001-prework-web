@@ -1,4 +1,4 @@
-puts Hello World! # Correct this to "Hello World!"
+puts "Hello World!" # Correct this to "Hello World!"
 
-# Your entire program should read:
+# Your entire progr"am should read:
 # puts "Hello World!"
