@@ -1,0 +1,15 @@
+This is a program
+Programs are interpreted at runtime.
+Which means even though I'm writing this Tue Jan 17 2012 8:36am
+the time now is 2016-02-10 18:01:08 -0800
+Programs have flow.
+Which means that you see this first
+and this next.
+Lines of code are executed linearly, that's flow.
+First come, first served.
+Programs are composed of basically three things:
+A language's keywords, like 'if' or 'end' (approximately 43).
+Literal pieces of data like this very sentence (or String).
+Finally, barewords, or variables, that are set equal to things.
+Anything that isn't one of those will cause an error.
+Called from /Users/davidfoon/Desktop/ruby-lecture-fixing-our-broken-program-001-prework-web/spec/a_broken_program_spec.rb:4:in `block (2 levels) in <top (required)>'.
