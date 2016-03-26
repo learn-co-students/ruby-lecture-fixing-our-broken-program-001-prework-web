@@ -5,5 +5,5 @@ describe 'A working program' do
       load 'lib/a_working_program.rb'
     }.to_not raise_error
   end
-
+ 
 end
