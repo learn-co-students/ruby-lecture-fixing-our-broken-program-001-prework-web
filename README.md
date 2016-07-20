@@ -14,7 +14,7 @@
 
 ## Lab Instructions
 
-1) Fork and clone this repository. 
+1) Fork and clone this repository.
 
 2) Run `learn` from within the cloned directory and you will see that one test passes and the other fails.
 
@@ -26,6 +26,6 @@
 puts "Hello World!"
 ```
 
-5) Save the file, run `learn` and it should pass. 
+5) Save the file, run `learn` and it should pass.
 
 6) Commit your changes and push, then open a pull request between your master branch and the master branch of this repository.
