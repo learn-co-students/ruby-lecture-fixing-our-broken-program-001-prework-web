@@ -1,9 +1,4 @@
-describe 'A working program' do
 
-  it 'not to raise an error when loaded' do
-    expect{
-      load 'lib/a_working_program.rb'
-    }.to_not raise_error
-  end
-
+def current_age_for_birth_year(birth_year)
+  Time.now.year - birth_year
 end
