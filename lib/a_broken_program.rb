@@ -19,5 +19,6 @@ puts "Literal pieces of data like this very sentence (or String)."
 puts "Finally, barewords, or variables, that are set equal to things."
 
 puts "Anything that isn't one of those will cause an error."
+puts "A DSL is a Domain Specific Language that sits on top of Ruby for testing"
 
 see
